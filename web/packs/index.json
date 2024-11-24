@@ -2,7 +2,10 @@
   "packs": [
     "maumau.json",
     "snoopydoggy.json",
-    "Gans.json"
+    "Gans.json",
+    "shiba_inu.json",
+    "every_day_with_you.json",
+    "snuggling.json"
   ],
   "homeserver_url": "https://matrix.amaterasu.xyz"
 }
