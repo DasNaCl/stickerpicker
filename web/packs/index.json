@@ -1,7 +1,8 @@
 {
   "packs": [
     "emotes.json",
-    "maumau.json"
+    "maumau.json",
+    "snoopydoggy.json"
   ],
   "homeserver_url": "https://matrix.amaterasu.xyz"
 }
